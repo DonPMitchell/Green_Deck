@@ -1,0 +1,63 @@
+60
+NEW GAME
+Clockwork Beast
+Forest
+Juggernaut
+Mana Vault
+Forest
+Forest
+Llanowar Elf
+NEXT TURN:
+Drawing Black Lotus
+Playing Forest, 1 mana left
+Playing Black Lotus, 4 mana left
+Tapping Forest for 1 mana
+Playing Mana Vault, 6 mana left
+Tapping Mana Vault for 3 mana
+Tapping Black Lotus for 3 mana
+Playing Clockwork Beast, 0 mana left
+0 damage from attack. Total 0
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Clockwork Beast
+Drawing Hurricane
+Playing Forest, 2 mana left
+Tapping Forest for 1 mana
+Playing Llanowar Elf, 1 mana left
+Attacking with Clockwork Beast
+7 damage from attack. Total 7
+1 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Clockwork Beast
+Untapping Llanowar Elf
+Drawing Forest
+Playing Forest, 4 mana left
+Tapping Forest for 1 mana
+Tapping Forest for 1 mana
+Tapping Forest for 1 mana
+Tapping Llanowar Elf for 1 mana
+Playing Juggernaut, 0 mana left
+Attacking with Clockwork Beast
+6 damage from attack. Total 13
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Clockwork Beast
+Untapping Forest
+Untapping Llanowar Elf
+Untapping Forest
+Untapping Juggernaut
+Drawing Giant Growth
+Playing Forest, 5 mana left
+Attacking with Clockwork Beast
+Attacking with Llanowar Elf
+Attacking with Juggernaut
+Tapping Forest for 1 mana
+Casting Giant Growth, 3 mana left
+14 damage from attack. Total 27
+3 mana available
+NEXT TURN:
+End of game
+4 turns to kill out of 1 trials

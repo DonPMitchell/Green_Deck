@@ -1,0 +1,641 @@
+NEW GAME
+Forest
+Elvish Archer
+Forest
+Llanowar Elf
+Shanodin Dryads
+Forest
+Forest
+NEXT TURN:
+Drawing Forest
+Playing Forest
+0 in mana pool, 0 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Llanowar Elf
+0 in mana pool, 1 available
+0 damage from attack. Total 0
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Llanowar Elf
+Drawing Scryb Sprites
+Playing Forest
+0 in mana pool, 2 available
+Attacking with Llanowar Elf
+1 damage from attack. Total 1
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Playing Elvish Archer
+0 in mana pool, 2 available
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Llanowar Elf
+Untapping Forest
+Untapping Elvish Archer
+Drawing Forest
+Playing Forest
+0 in mana pool, 3 available
+Attacking with Llanowar Elf
+Attacking with Elvish Archer
+3 damage from attack. Total 4
+Tapping Forest for 1 mana (0 in pool)
+Playing Scryb Sprites
+0 in mana pool, 3 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Shanodin Dryads
+0 in mana pool, 2 available
+1 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Llanowar Elf
+Untapping Forest
+Untapping Elvish Archer
+Untapping Scryb Sprites
+Untapping Shanodin Dryads
+Drawing Wild Growth
+Playing Forest
+0 in mana pool, 4 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Wild Growth
+0 in mana pool, 5 available
+Attacking with Llanowar Elf
+Attacking with Elvish Archer
+Attacking with Scryb Sprites
+Attacking with Shanodin Dryads
+5 damage from attack. Total 9
+4 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Llanowar Elf
+Untapping Elvish Archer
+Untapping Scryb Sprites
+Untapping Shanodin Dryads
+Drawing Instill Energy
+Playing Forest
+0 in mana pool, 6 available
+Trying Instill Energy
+Trying Instill Energy
+Attacking with Llanowar Elf
+Attacking with Elvish Archer
+Attacking with Scryb Sprites
+Attacking with Shanodin Dryads
+5 damage from attack. Total 14
+Trying Instill Energy
+Instilling Elvish Archer
+Tapping Forest for 1 mana (0 in pool)
+Playing Instill Energy
+0 in mana pool, 6 available
+5 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Llanowar Elf
+Untapping Scryb Sprites
+Untapping Shanodin Dryads
+Drawing Elvish Archer
+Playing Forest
+0 in mana pool, 7 available
+Attacking with Llanowar Elf
+Attacking with Elvish Archer
+Attacking with Scryb Sprites
+Attacking with Shanodin Dryads
+5 damage from attack. Total 19
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 2 mana (1 in pool)
+Playing Elvish Archer
+1 in mana pool, 7 available
+5 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Llanowar Elf
+Untapping Forest
+Untapping Elvish Archer
+Untapping Scryb Sprites
+Untapping Shanodin Dryads
+Untapping Elvish Archer
+Drawing Forest
+Playing Forest
+0 in mana pool, 8 available
+Attacking with Llanowar Elf
+Attacking with Elvish Archer
+Attacking with Scryb Sprites
+Attacking with Shanodin Dryads
+Attacking with Elvish Archer
+7 damage from attack. Total 26
+8 mana available
+NEXT TURN:
+Untapping Llanowar Elf
+Untapping Scryb Sprites
+Untapping Shanodin Dryads
+Untapping Elvish Archer
+Drawing Grizzly Bear
+Attacking with Llanowar Elf
+Attacking with Elvish Archer
+Attacking with Scryb Sprites
+Attacking with Shanodin Dryads
+Attacking with Elvish Archer
+7 damage from attack. Total 33
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 2 mana (1 in pool)
+Playing Grizzly Bear
+1 in mana pool, 8 available
+6 mana available
+NEXT TURN:
+End of game
+8 turns to kill out of 1 trials
+
+NEW GAME
+Clockwork Beast
+Forest
+Wild Growth
+Forest
+Fyndhorn Elf
+Instill Energy
+Forest
+NEXT TURN:
+Drawing Forest
+Playing Forest
+0 in mana pool, 0 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Wild Growth
+0 in mana pool, 1 available
+0 damage from attack. Total 0
+0 mana available
+NEXT TURN:
+Untapping Forest
+Drawing Balduvian Bears
+Playing Forest
+0 in mana pool, 2 available
+Tapping Forest for 2 mana (0 in pool)
+Playing Balduvian Bears
+0 in mana pool, 3 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Fyndhorn Elf
+0 in mana pool, 1 available
+0 damage from attack. Total 0
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Drawing Forest
+Playing Forest
+0 in mana pool, 4 available
+Trying Instill Energy
+Trying Instill Energy
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+3 damage from attack. Total 3
+Trying Instill Energy
+Instilling Balduvian Bears
+Tapping Forest for 2 mana (0 in pool)
+Playing Instill Energy
+1 in mana pool, 4 available
+3 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Fyndhorn Elf
+Drawing Woolly Mammoths
+Playing Forest
+0 in mana pool, 5 available
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+3 damage from attack. Total 6
+Tapping Forest for 2 mana (0 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Playing Woolly Mammoths
+0 in mana pool, 5 available
+2 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Untapping Woolly Mammoths
+Drawing Giant Growth
+Playing Forest
+0 in mana pool, 6 available
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+Attacking with Woolly Mammoths
+Tapping Forest for 2 mana (0 in pool)
+Casting Giant Growth
+9 damage from attack. Total 15
+5 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Fyndhorn Elf
+Untapping Woolly Mammoths
+Drawing War Mammoth
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+Attacking with Woolly Mammoths
+6 damage from attack. Total 21
+Tapping Forest for 2 mana (0 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Tapping Forest for 1 mana (3 in pool)
+Tapping Forest for 1 mana (4 in pool)
+Tapping Forest for 1 mana (5 in pool)
+Playing Clockwork Beast
+0 in mana pool, 6 available
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Untapping Forest
+Untapping Forest
+Untapping Woolly Mammoths
+Untapping Forest
+Untapping Clockwork Beast
+Drawing Forest
+Playing Forest
+0 in mana pool, 7 available
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+Attacking with Woolly Mammoths
+Attacking with Clockwork Beast
+13 damage from attack. Total 34
+Tapping Forest for 2 mana (0 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Tapping Forest for 1 mana (3 in pool)
+Playing War Mammoth
+0 in mana pool, 7 available
+3 mana available
+NEXT TURN:
+End of game
+7 turns to kill out of 1 trials
+
+NEW GAME
+Instill Energy
+Stampede
+Woolly Mammoths
+War Mammoth
+Forest
+Forest
+Balduvian Bears
+NEXT TURN:
+Drawing Forest
+Playing Forest
+0 in mana pool, 0 available
+Trying Instill Energy
+0 damage from attack. Total 0
+Trying Instill Energy
+1 mana available
+NEXT TURN:
+Drawing Concordant Crossroads
+Playing Forest
+0 in mana pool, 1 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Concordant Crossroads
+0 in mana pool, 2 available
+Trying Instill Energy
+0 damage from attack. Total 0
+1 mana available
+NEXT TURN:
+Untapping Forest
+Drawing Clockwork Beast
+Playing Forest
+0 in mana pool, 2 available
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Playing Woolly Mammoths
+0 in mana pool, 3 available
+Attacking with Woolly Mammoths
+3 damage from attack. Total 3
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Forest
+Untapping Woolly Mammoths
+Drawing Scryb Sprites
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Playing Balduvian Bears
+0 in mana pool, 3 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Scryb Sprites
+0 in mana pool, 1 available
+Attacking with Woolly Mammoths
+Attacking with Balduvian Bears
+Attacking with Scryb Sprites
+6 damage from attack. Total 9
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Forest
+Untapping Woolly Mammoths
+Untapping Balduvian Bears
+Untapping Scryb Sprites
+Drawing Argothian Pixies
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Playing Argothian Pixies
+0 in mana pool, 3 available
+Trying Instill Energy
+Attacking with Woolly Mammoths
+Attacking with Balduvian Bears
+Attacking with Scryb Sprites
+Attacking with Argothian Pixies
+8 damage from attack. Total 17
+1 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Woolly Mammoths
+Untapping Balduvian Bears
+Untapping Scryb Sprites
+Untapping Argothian Pixies
+Drawing Balduvian Bears
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Playing Balduvian Bears
+0 in mana pool, 3 available
+Trying Instill Energy
+Attacking with Woolly Mammoths
+Attacking with Balduvian Bears
+Attacking with Scryb Sprites
+Attacking with Argothian Pixies
+Attacking with Balduvian Bears
+10 damage from attack. Total 27
+1 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Woolly Mammoths
+Untapping Balduvian Bears
+Untapping Scryb Sprites
+Untapping Argothian Pixies
+Untapping Balduvian Bears
+Drawing Wild Growth
+Tapping Forest for 1 mana (0 in pool)
+Playing Wild Growth
+0 in mana pool, 3 available
+Trying Instill Energy
+Trying Instill Energy
+Attacking with Woolly Mammoths
+Attacking with Balduvian Bears
+Attacking with Scryb Sprites
+Attacking with Argothian Pixies
+Attacking with Balduvian Bears
+Tapping Forest for 2 mana (0 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Casting Stampede
+15 damage from attack. Total 42
+0 mana available
+NEXT TURN:
+End of game
+7 turns to kill out of 1 trials
+
+NEW GAME
+Mana Vault
+Instill Energy
+Forest
+Forest
+Elvish Archer
+Grizzly Bear
+Forest
+NEXT TURN:
+Drawing Forest
+Playing Forest
+0 in mana pool, 0 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Mana Vault
+0 in mana pool, 1 available
+Tapping Mana Vault for 3 mana (0 in pool)
+Playing Grizzly Bear
+1 in mana pool, 3 available
+Trying Instill Energy
+Instilling Grizzly Bear
+Playing Instill Energy
+0 in mana pool, 1 available
+Attacking with Grizzly Bear
+2 damage from attack. Total 2
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Grizzly Bear
+Drawing Woolly Mammoths
+Playing Forest
+0 in mana pool, 1 available
+Attacking with Grizzly Bear
+2 damage from attack. Total 4
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Playing Elvish Archer
+0 in mana pool, 2 available
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Elvish Archer
+Drawing Fyndhorn Elf
+Playing Forest
+0 in mana pool, 2 available
+Attacking with Grizzly Bear
+Attacking with Elvish Archer
+4 damage from attack. Total 8
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Playing Woolly Mammoths
+0 in mana pool, 3 available
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Grizzly Bear
+Untapping Forest
+Untapping Elvish Archer
+Untapping Forest
+Untapping Woolly Mammoths
+Drawing Erhnam Djinn
+Playing Forest
+0 in mana pool, 3 available
+Attacking with Grizzly Bear
+Attacking with Elvish Archer
+Attacking with Woolly Mammoths
+7 damage from attack. Total 15
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Tapping Forest for 1 mana (3 in pool)
+Playing Erhnam Djinn
+0 in mana pool, 4 available
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Elvish Archer
+Untapping Forest
+Untapping Woolly Mammoths
+Untapping Forest
+Untapping Erhnam Djinn
+Drawing Erhnam Djinn
+Attacking with Grizzly Bear
+Attacking with Elvish Archer
+Attacking with Woolly Mammoths
+Attacking with Erhnam Djinn
+11 damage from attack. Total 26
+Tapping Forest for 1 mana (0 in pool)
+Tapping Forest for 1 mana (1 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Tapping Forest for 1 mana (3 in pool)
+Playing Erhnam Djinn
+0 in mana pool, 4 available
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Grizzly Bear
+Untapping Forest
+Untapping Elvish Archer
+Untapping Forest
+Untapping Woolly Mammoths
+Untapping Forest
+Untapping Erhnam Djinn
+Untapping Erhnam Djinn
+Drawing Instill Energy
+Trying Instill Energy
+Tapping Forest for 1 mana (0 in pool)
+Playing Fyndhorn Elf
+0 in mana pool, 4 available
+Trying Instill Energy
+Instilling Fyndhorn Elf
+Tapping Forest for 1 mana (0 in pool)
+Playing Instill Energy
+0 in mana pool, 4 available
+Attacking with Grizzly Bear
+Attacking with Elvish Archer
+Attacking with Woolly Mammoths
+Attacking with Erhnam Djinn
+Attacking with Erhnam Djinn
+Attacking with Fyndhorn Elf
+16 damage from attack. Total 42
+2 mana available
+NEXT TURN:
+End of game
+6 turns to kill out of 1 trials
+
+NEW GAME
+Wild Growth
+Fyndhorn Elf
+Fyndhorn Elf
+Balduvian Bears
+Forest
+War Mammoth
+Clockwork Beast
+NEXT TURN:
+Drawing Instill Energy
+Playing Forest
+0 in mana pool, 0 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Wild Growth
+0 in mana pool, 1 available
+0 damage from attack. Total 0
+0 mana available
+NEXT TURN:
+Untapping Forest
+Drawing Forest
+Playing Forest
+0 in mana pool, 2 available
+Tapping Forest for 2 mana (0 in pool)
+Playing Balduvian Bears
+0 in mana pool, 3 available
+Tapping Forest for 1 mana (0 in pool)
+Playing Fyndhorn Elf
+0 in mana pool, 1 available
+0 damage from attack. Total 0
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Drawing Forest
+Playing Forest
+0 in mana pool, 4 available
+Tapping Forest for 2 mana (0 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Tapping Forest for 1 mana (3 in pool)
+Playing War Mammoth
+0 in mana pool, 5 available
+Tapping Fyndhorn Elf for 1 mana (0 in pool)
+Playing Fyndhorn Elf
+0 in mana pool, 1 available
+Attacking with Balduvian Bears
+2 damage from attack. Total 2
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Untapping Forest
+Untapping War Mammoth
+Untapping Fyndhorn Elf
+Drawing Forest
+Playing Forest
+0 in mana pool, 6 available
+Tapping Forest for 2 mana (0 in pool)
+Tapping Forest for 1 mana (2 in pool)
+Tapping Forest for 1 mana (3 in pool)
+Tapping Forest for 1 mana (4 in pool)
+Tapping Fyndhorn Elf for 1 mana (5 in pool)
+Playing Clockwork Beast
+0 in mana pool, 7 available
+Trying Instill Energy
+Instilling Clockwork Beast
+Tapping Fyndhorn Elf for 1 mana (0 in pool)
+Playing Instill Energy
+0 in mana pool, 1 available
+Attacking with Balduvian Bears
+Attacking with War Mammoth
+Attacking with Clockwork Beast
+12 damage from attack. Total 14
+0 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Untapping Forest
+Untapping War Mammoth
+Untapping Fyndhorn Elf
+Untapping Forest
+Untapping Clockwork Beast
+Drawing Grizzly Bear
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+Attacking with War Mammoth
+Attacking with Fyndhorn Elf
+Attacking with Clockwork Beast
+13 damage from attack. Total 27
+Tapping Forest for 2 mana (0 in pool)
+Playing Grizzly Bear
+0 in mana pool, 5 available
+3 mana available
+NEXT TURN:
+Untapping Forest
+Untapping Balduvian Bears
+Untapping Fyndhorn Elf
+Untapping War Mammoth
+Untapping Fyndhorn Elf
+Untapping Grizzly Bear
+Drawing Giant Growth
+Attacking with Balduvian Bears
+Attacking with Fyndhorn Elf
+Attacking with War Mammoth
+Attacking with Fyndhorn Elf
+Attacking with Clockwork Beast
+Attacking with Grizzly Bear
+Tapping Forest for 2 mana (0 in pool)
+Casting Giant Growth
+17 damage from attack. Total 44
+4 mana available
+NEXT TURN:
+End of game
+6 turns to kill out of 1 trials
